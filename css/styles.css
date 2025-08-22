@@ -40,3 +40,13 @@ div {
     font-weight: bold;
     text-decoration: underline;
 }
+
+#TNR {
+    font-family: 'Times New Roman';
+}
+#Arial {
+    font-family: Arial;
+}
+#CS {
+    font-family: 'Comic Sans';
+}
