@@ -39,14 +39,17 @@ div {
 .font-title {
     font-weight: bold;
     text-decoration: underline;
+    text-align: center;
 }
-
-#TNR {
+p#TNR {
     font-family: 'Times New Roman';
+    text-align: center;
 }
-#Arial {
-    font-family: Arial;
+p#HV {
+    font-family: Helvetica;
+    text-align: center;
 }
-#CS {
-    font-family: 'Comic Sans';
+p#IM {
+    font-family:Impact;
+    text-align: center;
 }
